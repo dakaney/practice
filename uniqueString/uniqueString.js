@@ -18,7 +18,7 @@ function uniqueStr (str) {
       }
     }
     return true;
-  }
+  } 
   return false;
 }
 
