@@ -21,5 +21,5 @@ function uniqueStr (str) {
   } 
   return false;
 }
-
+ 
 uniqueStr('aba')
